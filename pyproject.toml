@@ -4,7 +4,6 @@ version = "0.0.1"
 description = "Python decorator to annotate and check parameter. shapes for tensors and numerical programs."
 authors = ["Thomas Deegan <tadeegan@gmail.com>"]
 license = "MIT"
-reposiory = "https://github.com/tadeegan/shape_constraints"
 
 [tool.poetry.dependencies]
 python = "^3.8"
